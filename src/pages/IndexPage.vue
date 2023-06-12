@@ -1,6 +1,6 @@
 <template>
 <div class="main-container flex">
-  <!-- <q-img src="guard.gif" fit="contain" class="guard" /> -->
+   <q-img src="guard.gif" fit="contain" class="guard" /> 
 </div>
 
 </template>
