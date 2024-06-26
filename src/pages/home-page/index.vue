@@ -1,5 +1,5 @@
 <template>
-    <div class="text-[30px] text-blue h-[300px]">
+    <div class="text-[30px] text-blue h-[300px] text-center my-auto outline">
         {{ t('messages') }}
     </div>
 </template>

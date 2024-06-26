@@ -1,3 +1,3 @@
-import i18n from "./home-page";
+import i18n from "./home-page"
 
-export { i18n };
+export { i18n }
