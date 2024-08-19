@@ -1,7 +1,9 @@
 <template>
-    <div class="text-[30px] text-blue h-[300px] text-center my-auto outline">
-        {{ t('messages') }}
-    </div>
+    
+    <page>
+        {{ t("default.title") }}
+    </page>
+    
 </template>
 <script setup lang="ts">
 
