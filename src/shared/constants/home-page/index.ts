@@ -1,4 +1,4 @@
 const HomePage = {
-  title: "Hello I am Tahir Rahimi"
+  title: "Whereas disregard and contempt for human rights have resulted"
 }
 export default HomePage

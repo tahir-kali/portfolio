@@ -3,3 +3,12 @@
 @import "tailwindcss/components";
 
 @import "tailwindcss/utilities";
+
+@font-face{
+    font-family: 'Comfortaa',sans-serif;
+    src: url("Comfortaa-Regular.ttf")
+}
+
+*{
+    font-family: 'Comfortaa';
+}
